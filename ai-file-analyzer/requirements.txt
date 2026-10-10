@@ -1,5 +1,6 @@
 streamlit
 google-genai
+websockets==15.0.1
 python-docx
 pypdf
 pillow
